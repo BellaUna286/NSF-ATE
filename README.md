@@ -1,7 +1,6 @@
 # NSF-ATE
- costs of Green and Renewable Energy Projects 
- focus on collecting data regarding the costs of Green and Renewable Energy Projects - how much has been spent, how much more is projected to be spent, and on what.
-Green Infrastructure Fee Analysis
+  
+ 
 
 This project analyzes the Green Infrastructure Fee based on 3 sample bills from UNA Maui Energy data in 2025.
 
